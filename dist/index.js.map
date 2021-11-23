@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../src/index.ts"],"names":[],"mappings":";;AAAA,yCAAkG;AAAzF,8GAAA,iBAAiB,OAAA;AAAE,mHAAA,sBAAsB,OAAA;AAAE,mGAAA,cAAc,OAAU","sourcesContent":["export { createWriteStream, createWriteStreamAsync, SentryInstance as Sentry } from './transport';\n"]}
